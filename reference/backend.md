@@ -8,8 +8,4 @@ The backend handles:
 
 ### Running
 
-```bash
-./WebDS.exe
-```
-
 {% embed url="https://drive.google.com/file/d/10M0xtoapx9qcWiNu8_E4BNnHtEJptoPU/view?usp=sharing" %}
